@@ -1,6 +1,6 @@
-# freeCodeCamp_Build-Five-Programs
+## Five Bash Programs
 Five small bash programs.
-The five Prepared for FreeCodeCamp's Relational Database course. This one is not a required projects to earn certification.
+The five bash programs are Prepared for FreeCodeCamp's Relational Database course. This one is not a required projects to earn certification.
 For this project, we need to create five small bash programs. Which are;
 questionnaire.sh - Asks for user input and prints user input
 fortune.sh - Program to tell a persons fortune
